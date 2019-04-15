@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="day27_02_strutsCfg"
+  id="myeclipse.1414547051727"
+  context-root="/day27_02_strutsCfg"
+  j2ee-spec="5.0"
+  archive="day27_02_strutsCfg.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
